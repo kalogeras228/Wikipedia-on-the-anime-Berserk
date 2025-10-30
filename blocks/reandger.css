@@ -1,0 +1,126 @@
+.reandger-main {
+    padding-top: 120px;
+}
+
+.reandger-main {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.reandger__header {
+        color: #3E2723;
+    font-weight: 200;
+    font-size: 50px;
+    line-height: 90px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 60px;
+}
+
+.reandger {
+         margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background-color: #A1887F;
+}
+
+.reandger__place {
+            color: #3E2723;
+    font-weight: 200;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.reandger__text {
+        font-weight: 300;
+    font-style: Light;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 2%;
+    font-family: "Montserrat", "Arial", sans-serif;
+    color: #6D1B1B;
+    width: 700px;
+    margin: 0;
+    border: 2px solid #D7CCC8;
+    border-radius: 30px;
+    padding: 15px;
+}
+
+.reandger__image {
+    border-radius: 30px;
+}
+
+.reandger__place-two {
+                color: #3E2723;
+    font-weight: 200;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.reandger__text-two {
+            font-weight: 300;
+    font-style: Light;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 2%;
+    font-family: "Montserrat", "Arial", sans-serif;
+    color: #6D1B1B;
+    width: 100%;
+    margin: 0;
+    border: 2px solid #D7CCC8;
+    border-radius: 30px;
+    padding: 15px;
+}
+
+.reandger-main__two {
+    margin-bottom: 30px;
+}
+
+.reandger-main__tree {
+    display: flex;
+    padding-bottom: 30px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.reandger__place-tree {
+                    color: #3E2723;
+    font-weight: 200;
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+
+}
+
+.reandger__text-tree {
+                font-weight: 300;
+    font-style: Light;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 2%;
+    font-family: "Montserrat", "Arial", sans-serif;
+    color: #6D1B1B;
+    width: 700px;
+    margin: 0;
+    border: 2px solid #D7CCC8;
+    border-radius: 30px;
+    padding: 15px;
+    margin-top: 50px;
+}

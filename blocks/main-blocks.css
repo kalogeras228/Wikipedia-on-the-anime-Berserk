@@ -1,0 +1,185 @@
+.berserk-header-main {
+    color: red;
+    font-weight: 200;
+    font-size: 40px;
+    line-height: 90px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+
+.berserk-main {
+    padding-top: 90px;
+    background-color:  #000000;
+    width: 100%;
+    padding-bottom: 60px;
+}
+
+.berserk-text-main {
+font-weight: 300;
+font-style: Light;
+font-size: 24px;
+line-height: 32px;
+letter-spacing: 2%;
+font-family: "Montserrat", "Arial", sans-serif;
+color:#888888;
+width: 900px;
+margin-left: 5px;
+}
+
+.berserk-main__block-text {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 35px;
+    position: relative;
+    border: 2px solid #fff;
+    border-radius: 30px;
+    padding: 10px;
+    align-items: center;
+}
+
+
+
+.berserk-text-main-one {
+    font-weight: 300;
+    font-style: Light;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 2%;
+    font-family: "Montserrat", "Arial", sans-serif;
+    color:#888888;
+    width: 900px;
+    }
+
+    .berserk-main__text-creature {
+        font-weight: 300;
+        font-style: Light;
+        font-size: 24px;
+        line-height: 32px;
+        letter-spacing: 2%;
+        font-family: "Montserrat", "Arial", sans-serif;
+        color:#888888; 
+                border: 2px solid #fff;
+    border-radius: 30px;
+    padding: 10px;
+    align-items: center;
+    padding: 20px 10px;
+    }
+
+    .berserk-main__creature {
+        margin-bottom: 50px;
+        margin-top: 60px;
+    }
+    .berserk-main__img {
+        border-radius: 45px;
+    }
+
+    .berserk-main__block-text-two {
+        display: flex;
+        gap: 25px;
+        margin-bottom: 35px;
+        border: 2px solid #fff;
+    border-radius: 30px;
+    padding: 10px;
+    align-items: center;
+
+  
+
+     
+    }
+
+    .berserk-text-main-two {
+        font-weight: 300;
+        font-style: Light;
+        font-size: 24px;
+        line-height: 32px;
+        letter-spacing: 2%;
+        font-family: "Montserrat", "Arial", sans-serif;
+        color:#888888;
+        width: 900px;
+    }
+
+    .berserk-main__block-text-tree {
+        display: flex;
+        gap: 25px;
+        margin-bottom: 35px;
+                border: 2px solid #fff;
+    border-radius: 30px;
+    padding: 10px;
+    align-items: center;
+    }
+
+
+
+
+
+   
+
+    .berserk-main__img--accent {
+        margin-left: auto;
+        margin-right: 30px;
+    }
+
+
+
+    .berserk-text-main {
+        transform: translateX(-100px);
+        opacity: 0;
+        animation: textSlideIn 1s ease-out 0.3s forwards;
+    }
+    
+    .berserk-text-main-two {
+        transform: translateX(-100px);
+        opacity: 0;
+        animation: textSlideIn 1s ease-out 0.5s forwards;
+    }
+    
+    .berserk-text-main-one {
+        transform: translateX(-100px);
+        opacity: 0;
+        animation: textSlideIn 1s ease-out 0.7s forwards;
+    }
+    
+    @keyframes textSlideIn {
+        to {
+            transform: translateX(0);
+            opacity: 1;
+        }
+    }
+
+    .berserk-main-text-four {
+        display: flex;
+        gap: 25px;
+                border: 2px solid #fff;
+    border-radius: 30px;
+    padding: 10px;
+    align-items: center;
+    }
+    
+    .berserk-main__blocks {
+        margin-bottom: 120px;
+    }
+
+    .berserk-main__block-text:hover {
+        background-color: #1A1A1A;
+ 
+    }
+
+    .berserk-main__text-creature:hover {
+        background-color: #1A1A1A;
+    }
+
+    .berserk-main__block-text-two:hover {
+        background-color: #1A1A1A;
+    }
+
+    .berserk-main__block-text-tree:hover {
+        background-color: #1A1A1A;
+    }
+
+    .berserk-main-text-four:hover {
+        background-color: #1A1A1A;
+    }
+   

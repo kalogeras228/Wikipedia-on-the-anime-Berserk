@@ -1,0 +1,35 @@
+.berserk-glav-heading {
+    color: red;
+font-weight: 200;
+font-size: 86px;
+line-height: 90px;
+letter-spacing: 0.02em;
+text-transform: uppercase;
+text-align: center;
+margin: 0;
+
+}
+
+.berserk-header {
+    position: fixed;
+        top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000; 
+    background-color:  black;
+    width: 100%;
+
+    
+    
+    
+   
+}
+
+.berserk-header__block {
+    display: flex;
+    justify-content: space-between;
+}
+
+.berserk-header__img {
+    border-radius: 30px;
+}

@@ -1,0 +1,134 @@
+.griffith {
+        margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background-color:  #E1F5FE;;
+}
+
+.griffith-main {
+    padding-top: 120px;
+}
+
+.griffith__one {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+.griffith__header {
+        color: #4FC3F7;
+    font-weight: 200;
+    font-size: 40px;
+    line-height: 90px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+   text-align: center;
+    margin-bottom: 20px;
+}
+
+.griffith__place {
+            color: #4FC3F7;
+    font-weight: 200;
+    font-size: 30px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+   
+    margin-bottom: 20px;
+}
+
+.griffith__text {
+        font-weight: 300;
+font-style: Light;
+font-size: 24px;
+line-height: 32px;
+letter-spacing: 2%;
+font-family: "Montserrat", "Arial", sans-serif;
+color:#888888;
+width: 900px;
+margin: 0;
+    border: 2px solid #29B6F6;
+    border-radius: 30px;
+    padding: 15px;
+    width: 700px;
+}
+
+.griffith__image {
+    border-radius: 30px;
+}
+
+.griffith__text-two {
+            font-weight: 300;
+font-style: Light;
+font-size: 24px;
+line-height: 32px;
+letter-spacing: 2%;
+font-family: "Montserrat", "Arial", sans-serif;
+color:#888888;
+width: 900px;
+margin: 0;
+    border: 2px solid #29B6F6;
+    border-radius: 30px;
+    padding: 15px;
+    width: 100%;
+}
+
+.griffith__place-two {
+                color: #4FC3F7;
+    font-weight: 200;
+    font-size: 30px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+   text-align: center;
+    margin-bottom: 20px;
+}
+
+.griffith__place-tree {
+                    color: #4FC3F7;
+    font-weight: 200;
+    font-size: 30px;
+    line-height: 40px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.griffith__text-tree {
+                font-weight: 300;
+font-style: Light;
+font-size: 24px;
+line-height: 32px;
+letter-spacing: 2%;
+font-family: "Montserrat", "Arial", sans-serif;
+color:#888888;
+width: 900px;
+margin: 0;
+    border: 2px solid #29B6F6;
+    border-radius: 30px;
+    padding: 15px;
+    width: 700px;
+}
+
+.griffith__tree {
+    display: flex;
+    justify-content: space-between;
+}
+
+.griffith__two {
+    margin-bottom: 40px;
+}
+
+.griffith__text-tree:hover {
+    background-color:  #E3F2FD;
+}
+
+.griffith__text-two:hover {
+   background-color:  #E3F2FD; 
+}
+
+.griffith__text:hover  {
+background-color:  #E3F2FD; 
+}
+
+

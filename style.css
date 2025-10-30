@@ -1,0 +1,13 @@
+@import "blocks/header.css";
+@import "blocks/main-blocks.css";
+@import "blocks/main-plot.css";
+@import "blocks/main-dossier.css";
+@import "blocks/casca.css";
+@import "blocks/Guts.css";
+@import "blocks/griffith.css";
+@import "blocks/reandger.css";
+@import "blocks/footer.css";
+
+
+@import "global/reebot.css";
+@import "global/container.css";

@@ -1,0 +1,89 @@
+.casca__text {
+    
+    color: #8B0000; /* белый текст */
+    text-shadow: 
+        2px 2px 0 #000,
+        -2px -2px 0 #000,
+        2px -2px 0 #000,
+        -2px 2px 0 #000;
+
+font-weight: 200;
+font-size: 50px;
+line-height: 90px;
+letter-spacing: 0.02em;
+text-transform: uppercase;
+text-align: center;
+margin-bottom: 50px;
+
+}
+
+.casca-main {
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+    align-items: center;
+
+     position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.casca {
+    background-color: black;
+     background-size: cover;     
+    background-position: center;
+        width: 100vw;   
+    height: 100vh;  
+    margin: 0;       
+}
+
+.casca__button {
+      display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    background: linear-gradient(135deg, #300000 0%, #8B0000 50%, #300000 100%);
+    border: 1px solid #8B0000;
+    width: 350px;
+    height: 60px;
+    border-radius: 60px;
+
+    font-weight: 300;
+    font-style: Light;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 2%;
+    font-family: "Montserrat", "Arial", sans-serif;
+    color:   black;
+    margin-bottom: 40px;
+    
+}
+
+.casca__button:hover {
+    background: linear-gradient(135deg, #200000 0%, #600000 50%, #200000 100%);
+    border: 1px solid #600000;
+}
+
+
+.casca__button:active {
+    background: linear-gradient(135deg, #100000 0%, #400000 50%, #100000 100%);
+    border: 1px solid #400000;
+    transform: scale(0.98); 
+}
+
+.casca__place {
+                color: #8B0000; /* белый текст */
+    text-shadow: 
+        2px 2px 0 #000,
+        -2px -2px 0 #000,
+        2px -2px 0 #000,
+        -2px 2px 0 #000;
+font-weight: 200;
+font-size: 30px;
+letter-spacing: 0.02em;
+text-transform: uppercase;
+text-align: center;
+
+}

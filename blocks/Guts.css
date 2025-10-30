@@ -1,0 +1,123 @@
+.Guts-main {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background-color: #000;
+}
+
+.guts-main__off {
+    padding-top: 120px;
+    margin-left: 35px;
+}
+
+.Guts-main__header {
+    color: red;
+    font-weight: 200;
+    font-size: 40px;
+    line-height: 90px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+
+.Guts-main__place {
+    color: red;
+    font-weight: 200;
+    font-size: 30px;
+    line-height: 90px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.Guts-main__text {
+    font-weight: 300;
+    font-style: Light;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 2%;
+    font-family: "Montserrat", "Arial", sans-serif;
+    color: #888888;
+    width: 700px;
+    margin: 0;
+    border: 2px solid #fff;
+    border-radius: 30px;
+    padding: 15px;
+}
+
+.guts-main__part {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.Guts-main__two {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.Guts-main__place-gold {
+    color: red;
+    font-weight: 200;
+    font-size: 40px;
+    line-height: 90px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.Guts-main__text-gold {
+    font-weight: 300;
+    font-style: Light;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 2%;
+    font-family: "Montserrat", "Arial", sans-serif;
+    color: #888888;
+    margin: 0;
+    border: 2px solid #fff;
+    border-radius: 30px;
+    padding: 15px;
+    margin: 0 35px;
+}
+
+.Guts-main__tree {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 35px;
+}
+
+.Guts-main__place__wrestling {
+      color: red;
+    font-weight: 200;
+    font-size: 40px;
+    line-height: 90px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 20px;  
+}
+
+.Guts-main__text-wrestling {
+        font-weight: 300;
+    font-style: Light;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 2%;
+    font-family: "Montserrat", "Arial", sans-serif;
+    color: #888888;
+    margin: 0;
+    border: 2px solid #fff;
+    border-radius: 30px;
+    padding: 15px;
+   width: 700px;
+}
+
+
